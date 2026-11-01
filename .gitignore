@@ -1,0 +1,19 @@
+# Build output. The exe and the frontend bundle are produced by `wails build`;
+# build/appicon.png and build/windows/ are source (the icon master and the
+# version resource) and stay tracked.
+
+/frontend/dist/
+
+# Go: the resource object and any test binary dropped in the module root.
+*.syso
+*.test
+
+# Node
+node_modules/
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
