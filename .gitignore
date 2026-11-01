@@ -1,0 +1,18 @@
+# Build output: produced by `wails build` (the whole folder is regenerable).
+
+# Frontend: installed packages and the bundle `wails build` generates from them.
+# frontend/dist is what main.go embeds, so a fresh clone runs `wails build`
+# before plain `go build` - see README.
+frontend/node_modules/
+frontend/dist/
+frontend/package.json.md5
+
+# Editor and OS leftovers.
+.DS_Store
+Thumbs.db
+*.tmp-*
+
+# Go and test leftovers.
+*.test
+*.out
+coverage.*
