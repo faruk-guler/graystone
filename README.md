@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon/graystone-appicon.png" alt="" width="260" height="260" />
+  <img src="icon/graystone-appicon.png" alt="" width="260" height="260"
  <img src="about/home.png" alt="" width="260" height="260" />
 </p>
 
