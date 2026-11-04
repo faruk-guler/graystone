@@ -1,7 +1,7 @@
 <div align="center">
   <img src="icon/graystone-appicon.png" width="200" height="400">
   <br><br>
-  <img src="about/home.png" width="500" height="600">
+  <img src="about/home.png" width="600" height="800">
 </div>
 
 <h1 align="center">Graystone</h1>
